@@ -38,7 +38,7 @@ Ayuda a las empresas que están en proceso de consolidación, puesto que su princi
 
 Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc. Son algunas de las empresas mas importantes que usan las metodologías ágiles y la mayoria de estas usan SCRUM, sin embargo tambien usan Kanban, Extreme Programming XP, entre otros.
 
-## Referencias
+## Referencias:
 
 - https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/
 - https://ingenio.edu.pe/grandes-empresas-que-aplican-scrum/
