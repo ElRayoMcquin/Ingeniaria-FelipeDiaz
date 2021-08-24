@@ -14,12 +14,9 @@ En 2001 se reunieron importantes desarrolladores de software en Snowbird, Utah. 
 
 ## Metodologías Ágiles más usadas
 
-- Extreme Programming XP
 - SCRUM
 - Kanban 
-
-## Extreme Programming XP
-Ayuda a las empresas que están en proceso de consolidación, puesto que su principal objetivo es ayudar en las relaciones entre los empleados y clientes. Fomentando la comunicación y eliminando los tiempos muertos.
+- Extreme Programming XP
 
 ## SCRUM
 
@@ -29,6 +26,8 @@ Se caracteriza por ser la «metodología del caos» que se basa en una estructura d
 
 Es conocida como «Tarjeta Visual», esta consiste en la elaboración de un cuadro o diagrama en el que se reflejan tres columnas de tareas; pendientes, en proceso o terminadas. Este cuadro debe estar al alcance de todos los miembros del equipo, evitando así la repetición de tareas o la posibilidad de que se olvide alguna de ellas.
 
+## Extreme Programming XP
+Ayuda a las empresas que están en proceso de consolidación, puesto que su principal objetivo es ayudar en las relaciones entre los empleados y clientes. Fomentando la comunicación y eliminando los tiempos muertos.
 ## Principales ventajas 
 
 - Mejora de la calidad del producto
@@ -37,9 +36,7 @@ Es conocida como «Tarjeta Visual», esta consiste en la elaboración de un cuadro 
 - Trabajo colaborativo
 - Reducción de costos
 
-## Ejemplos de empresas que usan las metodologías
-
-Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc.
+Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc. Son algunas de las empresas mas importantes que usan las metodologías ágiles y la mayoria de estas usan SCRUM, sin embargo tambien usan Kanban, Extreme Programming XP, entre otros.
 
 ## Referencias
 
