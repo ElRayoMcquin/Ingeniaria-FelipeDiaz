@@ -35,5 +35,16 @@ Es conocida como «Tarjeta Visual», esta consiste en la elaboración de un cuadro 
 - Mayor satisfacción del cliente
 - Mayor motivación de los trabajadores
 - Trabajo colaborativo
-- Reducción de costes
+- Reducción de costos
+
+## Ejemplos de empresas que usan las metodologías
+
+Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc.
+
+## Referencias
+
+- https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/
+- https://ingenio.edu.pe/grandes-empresas-que-aplican-scrum/
+- https://www.luisan.net/blog/transformacion-digital/que-son-las-metodologias-agiles
+
 
