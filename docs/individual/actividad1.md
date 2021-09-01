@@ -1,18 +1,18 @@
 # Actividad 1
 
-## ¿Qué son las Metodologías Ágiles?
+## ï¿½Quï¿½ son las Metodologï¿½as ï¿½giles?
 
-Las metodologías ágiles son un conjunto de métodos que permiten adaptar el modo de trabajo a las condiciones del proyecto, aportando flexibilidad, eficiencia y, por lo tanto, logrando un mejor producto a menor coste. Surgió en la industria del desarrollo del software, en una búsqueda de alternativas al método tradicional de trabajo, muy estructurado y estricto, extraído del modelo de desarrollo en cascada.
+Las metodologï¿½as ï¿½giles son un conjunto de mï¿½todos que permiten adaptar el modo de trabajo a las condiciones del proyecto, aportando flexibilidad, eficiencia y, por lo tanto, logrando un mejor producto a menor coste. Surgiï¿½ en la industria del desarrollo del software, en una bï¿½squeda de alternativas al mï¿½todo tradicional de trabajo, muy estructurado y estricto, extraï¿½do del modelo de desarrollo en cascada.
 
-## Manifiesto Ágil 
-En 2001 se reunieron importantes desarrolladores de software en Snowbird, Utah. Crearon el Manifiesto Ágil, en el que se establecieron 12 principios, y cuya filosofía se puede resumir en las siguientes cuatro ideas principales:
+## Manifiesto ï¿½gil 
+En 2001 se reunieron importantes desarrolladores de software en Snowbird, Utah. Crearon el Manifiesto ï¿½gil, en el que se establecieron 12 principios, y cuya filosofï¿½a se puede resumir en las siguientes cuatro ideas principales:
 
 - Valorar a los individuos e interacciones sobre los procesos y herramientas
-- Valorar el software funcionando sobre la documentación extensiva
-- Valorar la colaboración con el cliente sobre la negociación contractual
+- Valorar el software funcionando sobre la documentaciï¿½n extensiva
+- Valorar la colaboraciï¿½n con el cliente sobre la negociaciï¿½n contractual
 - Valorar la respuesta ante el cambio en lugar de seguir un plan
 
-## Metodologías Ágiles más usadas
+## Metodologï¿½as ï¿½giles mï¿½s usadas
 
 - SCRUM
 - Kanban 
@@ -20,23 +20,23 @@ En 2001 se reunieron importantes desarrolladores de software en Snowbird, Utah. 
 
 ## SCRUM
 
-Se caracteriza por ser la «metodología del caos» que se basa en una estructura de desarrollo incremental, esto es, cualquier ciclo de desarrollo del producto y/o servicio se desgrana en «pequeños proyectos» divididos en distintas etapas: análisis, desarrollo y testing. Esta metodología permite abordar proyectos complejos que exigen una flexibilidad y una rapidez esencial a la hora de ejecutar los resultados.
+Se caracteriza por ser la ï¿½metodologï¿½a del caosï¿½ que se basa en una estructura de desarrollo incremental, esto es, cualquier ciclo de desarrollo del producto y/o servicio se desgrana en ï¿½pequeï¿½os proyectosï¿½ divididos en distintas etapas: anï¿½lisis, desarrollo y testing. Esta metodologï¿½a permite abordar proyectos complejos que exigen una flexibilidad y una rapidez esencial a la hora de ejecutar los resultados.
 
 ## Kanban
 
-Es conocida como «Tarjeta Visual», esta consiste en la elaboración de un cuadro o diagrama en el que se reflejan tres columnas de tareas; pendientes, en proceso o terminadas. Este cuadro debe estar al alcance de todos los miembros del equipo, evitando así la repetición de tareas o la posibilidad de que se olvide alguna de ellas.
+Es conocida como ï¿½Tarjeta Visualï¿½, esta consiste en la elaboraciï¿½n de un cuadro o diagrama en el que se reflejan tres columnas de tareas; pendientes, en proceso o terminadas. Este cuadro debe estar al alcance de todos los miembros del equipo, evitando asï¿½ la repeticiï¿½n de tareas o la posibilidad de que se olvide alguna de ellas.
 
 ## Extreme Programming XP
-Ayuda a las empresas que están en proceso de consolidación, puesto que su principal objetivo es ayudar en las relaciones entre los empleados y clientes. Fomentando la comunicación y eliminando los tiempos muertos.
+Ayuda a las empresas que estï¿½n en proceso de consolidaciï¿½n, puesto que su principal objetivo es ayudar en las relaciones entre los empleados y clientes. Fomentando la comunicaciï¿½n y eliminando los tiempos muertos.
 ## Principales ventajas 
 
 - Mejora de la calidad del producto
-- Mayor satisfacción del cliente
-- Mayor motivación de los trabajadores
+- Mayor satisfacciï¿½n del cliente
+- Mayor motivaciï¿½n de los trabajadores
 - Trabajo colaborativo
-- Reducción de costos
+- Reducciï¿½n de costos
 
-Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc. Son algunas de las empresas mas importantes que usan las metodologías ágiles y la mayoria de estas usan SCRUM, sin embargo tambien usan Kanban, Extreme Programming XP, entre otros.
+Spotify, Google, Amazon, Apple, Mozilla, Ferrari, BBVA, Walmart, etc. Son algunas de las empresas mas importantes que usan las metodologï¿½as ï¿½giles y la mayoria de estas usan SCRUM, sin embargo tambien usan Kanban, Extreme Programming XP, entre otros.
 
 ## Referencias:
 

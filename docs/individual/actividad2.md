@@ -1,14 +1,14 @@
 # Actividad 2
 
-## ¿Cómo se conforma un equipo de Desarrollo de Software?
+## ï¿½Cï¿½mo se conforma un equipo de Desarrollo de Software?
 
 ### Software
 
-Es la programación lógica que todo sistema de cómputo necesita para funcionar correctamente y permitir al usuario disfrutar de aspectos como una interfaz amigable y rápida, así las direrentes funciones que el programa realice.
+Es la programaciï¿½n lï¿½gica que todo sistema de cï¿½mputo necesita para funcionar correctamente y permitir al usuario disfrutar de aspectos como una interfaz amigable y rï¿½pida, asï¿½ las direrentes funciones que el programa realice.
 
 ### Equipo de Desarrollo de Software 
 
-Un equipo de desarrollo de softaware es un conjunto de puestos que distintas personas trabajan para un fin relacionado, estos puestos o roles son diferentes porque cada uno de ellos se dedica a algo en especifico y que en conjunto se hace un solo proyecto. Esto ayuda a que el proyecto sea mas ordenado y por su puesto más eficiente, sin embargo cada integrante del equipo tiene que estar comprometido al 100% de su trabajo y con el equipo.
+Un equipo de desarrollo de softaware es un conjunto de puestos que distintas personas trabajan para un fin relacionado, estos puestos o roles son diferentes porque cada uno de ellos se dedica a algo en especifico y que en conjunto se hace un solo proyecto. Esto ayuda a que el proyecto sea mas ordenado y por su puesto mï¿½s eficiente, sin embargo cada integrante del equipo tiene que estar comprometido al 100% de su trabajo y con el equipo.
 
 ## Roles de un Equipo de Desarrollo de Software
 
@@ -18,12 +18,12 @@ Un equipo de desarrollo de softaware es un conjunto de puestos que distintas per
 - El Arquitecto del Sistema
 - El Desarrollador de Software
 - El Jefe de Desarrolladores
-- El Diseñador Gráfico
+- El Diseï¿½ador Grï¿½fico
 - El Tester
 - El Gerente del Proyecto
 - El Administrador de Cuentas
 - El Administrador de sistemas
-- El Administrador de Código
+- El Administrador de Cï¿½digo
 - El Capacitador
 
 ## Responsabilidades del Equipo de Desarrollo de Software
@@ -38,7 +38,7 @@ Esta persona es el que entiende las necesidades del cliente, igual verifica y se
 
 ### El Arquitecto de Software:
 
-El es el que traduce los requisitos del analista en algo más tecnico y crea un boceto de como sera la extructuración del software.
+El es el que traduce los requisitos del analista en algo mï¿½s tecnico y crea un boceto de como sera la extructuraciï¿½n del software.
 
 ### El Arquitecto de Sistema: 
 
@@ -46,15 +46,15 @@ Al igual que el Arquitecto de Software el Arquitecto del Sistema piensa antes de
 
 ### El Desarrollador de Software:
 
-Además de hacer el codigo, el Desarrollador tiene que documentarlo e informar al Jefe de las problematicas que le esten pasando.
+Ademï¿½s de hacer el codigo, el Desarrollador tiene que documentarlo e informar al Jefe de las problematicas que le esten pasando.
 
 ### El Jefe de Desarrolladores:
 
-Un desarrollador líder debe entrenar a los demás desarrolladores, y ayudarles a resolver los problemas que se puedan presentar.
+Un desarrollador lï¿½der debe entrenar a los demï¿½s desarrolladores, y ayudarles a resolver los problemas que se puedan presentar.
 
-### El Diseñador Gráfico:
+### El Diseï¿½ador Grï¿½fico:
 
-El es el encargado del diseño completo y consistente de la interfaz de usuario, hasta el definir sólo algunas directrices de interfaz de usuario que los desarrolladores deban cumplir.
+El es el encargado del diseï¿½o completo y consistente de la interfaz de usuario, hasta el definir sï¿½lo algunas directrices de interfaz de usuario que los desarrolladores deban cumplir.
 
 ### El Tester:
 
@@ -62,19 +62,19 @@ El Tester es la persona que prueba la funcionalidad del codigo tanto la fluidez 
 
 ### El Gerente del Proyecto:
 
-Es responsable de la planificación del proyecto, de mantener el proyecto dentro del presupuesto, y de la solución de problemas, sintetizando él resuelve cualquier problema que ponga en peligro el progreso del proyecto.
+Es responsable de la planificaciï¿½n del proyecto, de mantener el proyecto dentro del presupuesto, y de la soluciï¿½n de problemas, sintetizando ï¿½l resuelve cualquier problema que ponga en peligro el progreso del proyecto.
 
 ### El Administrador de Cuentas:
 
-Un administrador de cuentas puede mantener una relación más independiente con el cliente, y avisar si el cliente no está contento con la forma en que se ejecuta el proyecto por parte del gerente del proyecto.
+Un administrador de cuentas puede mantener una relaciï¿½n mï¿½s independiente con el cliente, y avisar si el cliente no estï¿½ contento con la forma en que se ejecuta el proyecto por parte del gerente del proyecto.
 
 ### El Administrador de Sistemas:
 
-El sistema en que la aplicación será instalada es creado por un administrador del sistemas y tambien puede tener que construir los entornos de desarrollo y ambientes de prueba.
+El sistema en que la aplicaciï¿½n serï¿½ instalada es creado por un administrador del sistemas y tambien puede tener que construir los entornos de desarrollo y ambientes de prueba.
 
-### El Administrador de Código:
+### El Administrador de Cï¿½digo:
 
-El Administrador de Código es el que junta los diferentes codigos de los Desarrolladores independientemente del sistema de control de versiones utilizado.
+El Administrador de Cï¿½digo es el que junta los diferentes codigos de los Desarrolladores independientemente del sistema de control de versiones utilizado.
 
 ### El Capacitor:
 
