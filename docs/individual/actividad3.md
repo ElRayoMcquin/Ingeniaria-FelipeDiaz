@@ -12,3 +12,4 @@ Esta herramienta ayuda a los equipos a mantener una estrategia coherente en los 
 
 Henry Gantt revolucionó la gestión de proyectos con los diagramas de Gantt a principios del siglo XX, los diagramas de se volvieron cada vez más complejos y elaborados en la década de los 80 por la demanda de ordenadores.
 
+jjsjsjs
