@@ -1,6 +1,6 @@
 # Actividad 2
 
-## �C�mo se conforma un equipo de Desarrollo de Software?
+## ¿C�mo se conforma un equipo de Desarrollo de Software?
 
 ### Software
 
