@@ -68,7 +68,7 @@ Este programa permite a los usuarios una buena planificación de los proyectos, 
 
 ## Mi ejemplo del Diagrama de Grantt
 
-
+[Ejemplo ProjectLibre](http://127.0.0.1:8001/individual/Ejemplo3/)
 ## Referencias
 
 - https://www.teamleader.es/blog/diagrama-de-gantt

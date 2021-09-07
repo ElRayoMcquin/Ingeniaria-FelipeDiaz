@@ -4,5 +4,5 @@
 
 Hacer un closet de madera
 
-[Mi imagen](/archivo/Imagenes/Actividad3/diagrama1.jpg)
+[Mi imagen](/archivo/Imagenes/Actividad3/diagrama1.jpeg)
 
