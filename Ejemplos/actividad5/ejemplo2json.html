@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <section id="tests">
+        <h1>¿Qué es JSON?</h1>
+        <div id="content">
+
+        </div>
+    </section>
+    <br> JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos ideal ya que se basa en un subconjunto del lenguaje de programación JavaScript, Estándar ECMA-262 3a Edición - Diciembre de 1999. Tambien es un formato de texto completamente
+    independiente del lenguaje, pero que utiliza convenios que resultan familiares a los programadores de lenguajes de la familia C, incluidos C, C++, C#, Java™, JavaScript, Perl, Python y mucho otros. b
+    <br>
+    <br>Referencia:
+    <br>
+    <br>IBM. (2018). Formato JSON (JavaScript Object Notation). 2021, de IBM Sitio web: https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format
+    <script type="text/javascript">
+        document.getElementById('content').innerHTML = objetos.Personas[1].nombre;
+        var persona = {
+            "name": "Luis Felipe ",
+            "edad": 20,
+            "avisar": function() {
+                alert("Hola soy " + this.name);
+            }
+        };
+
+        persona.avisar();
+    </script>
+</body>
+
+</html>

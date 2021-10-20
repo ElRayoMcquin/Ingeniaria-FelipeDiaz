@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curso>
+<titulo>
+    Primera prueba XML
+</titulo>
+
+<unidad titulo = "XML">
+<lecciones>
+    <leccion titulo= "Holaa"> 
+        Hello world
+    </leccion>
+</lecciones>
+</unidad>
+</Curso>

@@ -87,7 +87,7 @@ Desventajas:
 | No cuenta con extensibilidad | Cuenta con extensibilidad |
 
 ## Ejemplos:
-
+[Ejemplos 3 JSON y 3 xml](http://127.0.0.1:8001/individual/Ejemplo5/)
 ## Referencias:
 - Alejandro Cadavid López. (2003). Usos del eXtensible Markup Language (XML). 2021, de MaestrosdelWeb Sitio web: http://www.maestrosdelweb.com/xmlusos/
 - Universidad a distancia de Madrid. (2021). XML ¿QUÉ ES?. 2021, de Universidad a distancia de Madrid Sitio web: https://www.mundolinux.info/que-es-xml.htm

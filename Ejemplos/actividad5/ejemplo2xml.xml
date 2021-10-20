@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curso>
+<titulo>
+    ¿Qué es XML?
+</titulo>
+
+<unidad titulo = "XML">
+<lecciones>
+    <leccion titulo= "Definicion"> 
+    JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos ideal ya que se basa en un subconjunto del lenguaje de programación JavaScript, Estándar ECMA-262 3a Edición - Diciembre de 1999. Tambien es un formato de texto completamente
+    independiente del lenguaje, pero que utiliza convenios que resultan familiares a los programadores de lenguajes de la familia C, incluidos C, C++, C#, Java™, JavaScript, Perl, Python y mucho otros. 
+    </leccion>
+    <leccion titulo= "Referencia"> 
+    Mozilla. (2005). Introducción a XML. 2021, de Mozilla Sitio web: https://developer.mozilla.org/es/docs/Web/XML/XML_introduction
+    </leccion>
+</lecciones>
+</unidad>
+</Curso>

@@ -1,0 +1,30 @@
+<!DOCTYPE  html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <section id="tests">
+        <h1>Primera prueba JSON</h1>
+        <div id="content">
+
+        </div>
+    </section>
+    <br>Hello world
+    <script type="text/javascript">
+        document.getElementById('content').innerHTML = objetos.Personas[1].nombre;
+        var persona = {
+            "name": "Luis Felipe ",
+            "edad": 23,
+            "avisar": function() {
+                alert("Hola soy " + this.name);
+            }
+        };
+
+        persona.avisar();
+    </script>
+</body>
+
+</html>

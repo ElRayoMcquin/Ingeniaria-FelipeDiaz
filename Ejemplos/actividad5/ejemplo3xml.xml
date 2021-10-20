@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curso>
+<titulo>
+    Caracteristicas XML
+</titulo>
+
+<unidad titulo = "XML">
+<lecciones>
+    <leccion titulo= "Caracteristicas"> 
+        - XML es un subconjunto de SGML que incorpora las tres características más importantes de este:
+            - Extensibilidad
+            - Estructura
+            - Validación
+        - Basado en texto.
+        - Orientado a los contenidos no presentación.
+        - Las etiquetas se definen para crear los documentos, no tienen un significado preestablecido.
+        - No es sustituto de HTML.
+        - No existe un visor genérico de XML.
+    </leccion>
+</lecciones>
+</unidad>
+</Curso>
